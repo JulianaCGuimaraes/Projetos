@@ -1,0 +1,53 @@
+.body{
+    background-color: #ffffff;
+    padding: 20px 40px;
+    font-style: verdana;
+    text-align: left;
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color: orange;
+}
+
+.areaImagem{
+    float: left;
+    margin-top: 0px;
+}
+
+.areaImagem img {
+    width: 280px;
+    height: 280px;
+    padding: 0px 20px 0px 0px;
+}
+
+.Nome {
+    font-size:30px;
+    padding-top: 4px;
+}
+
+.Dados {
+    font-size: 18px;
+    line-height: 75%;
+    font-weight: normal;
+}
+
+.icon{
+    width: 14px;
+    height: 14px;
+}
+
+h3 {
+    padding-top: 70px;
+    font-size: 24px;
+}
+
+ul {
+    font-size: 18px;
+    margin-left: 0px;
+
+}
+

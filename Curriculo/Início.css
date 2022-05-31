@@ -1,0 +1,39 @@
+.body{
+    background-color: rgb(226, 226, 226);
+    padding: 30px 50px;
+    font-style: Arial,Verdana,Helvetica,sans-serif;
+    float: center;
+    text-align: center;
+}
+
+.meucurriculo img {
+    padding: 40px 0 0 0;
+    width: 600px;
+    height: 75px;
+}
+.Tx{
+    line-height: 50px;
+}
+
+.Tx1 {
+    font-size:20px;   
+    display: flex;
+    width: 50vw;
+    justify-content:space-around;
+    margin-left: 320px;
+    letter-spacing: 1px;
+}
+
+a {
+    color:black;
+}
+
+iframe {
+    width: 800px;
+    height: 450px;
+    background-color:white;
+}
+
+a:hover {
+    color: orange;
+}
